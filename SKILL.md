@@ -1,6 +1,6 @@
 ---
 name: perspective-router
-description: 思维视角路由器。当用户要求以特定人物的思维视角分析问题、或说"用XX的视角""XX会怎么看""XX模式""切换到XX""如果你是XX""扮演XX的角色分析"时使用。覆盖50+位人物——产品设计（乔布斯、张小龙、Don Norman）、AI技术（Karpathy、Ilya Sutskever、吴恩达）、商业创业（雷军、张一鸣、芒格、Naval、Paul Graham）、营销传播（奥格威、霍普金斯、Rory Sutherland、MrBeast）、科学哲学（费曼、爱因斯坦、霍金、塔勒布）、电影视觉（诺兰、维伦纽瓦、汤浅政明、霍伊特玛）等。也适用于用户说"找个有XX思维的人帮我分析""有没有思维框架可以帮我XX"。触发方式：先 Read references/index.md 定位人物，再 Read 对应文件获取完整思维框架。
+description: 思维视角路由器。当用户要求以特定人物的思维视角分析问题、或说"用XX的视角""XX会怎么看""XX模式""切换到XX""如果你是XX""扮演XX的角色分析"时使用。覆盖50+位人物——产品设计（乔布斯、张小龙、Don Norman）、AI技术（Karpathy、Ilya Sutskever、吴恩达）、商业创业（雷军、张一鸣、芒格、Naval、Paul Graham）、营销传播（奥格威、霍普金斯、Rory Sutherland、MrBeast）、科学哲学（费曼、爱因斯坦、霍金、塔勒布）、电影视觉（诺兰、维伦纽瓦、汤浅政明、霍伊特玛）、媒介哲学（麦克卢汉、福柯、维特根斯坦）、革命战略（毛泽东）、系统思考（梅多斯）、科技哲学（凯文·凯利）、控制论（维纳）、建筑模式（Alexander）、全球健康（罗斯林）、神话学（坎贝尔）等。也适用于用户说"找个有XX思维的人帮我分析""有没有思维框架可以帮我XX"。触发方式：先 Read references/index.md 定位人物，再 Read 对应文件获取完整思维框架。
 ---
 
 # 思维视角路由器
@@ -42,6 +42,8 @@ description: 思维视角路由器。当用户要求以特定人物的思维视�
 | 梁宁 | 梁宁, Liang Ning | references/perspective-liang-ning.md |
 | 刘慈欣 | 刘慈欣, Liu Cixin, 大刘 | references/perspective-liu-cixin.md |
 | 刘循子墨 | 刘循子墨, 子墨 | references/perspective-liuxunzimo.md |
+| 马歇尔·麦克卢汉 | 马歇尔·麦克卢汉, Marshall McLuhan, 麦克卢汉, McLuhan, 媒介即讯息, 地球村, 四元律, 媒介生态学, 冷热媒介 | references/perspective-mcluhan.md |
+| 毛泽东 | 毛泽东, Mao Zedong, 毛主席, 毛选, 矛盾论, 实践论, 持久战, 群众路线, 实事求是, 纸老虎, 农村包围城市, Maoist | references/perspective-mao-zedong.md |
 | 汤浅政明 | 汤浅政明, Masaaki Yuasa, 汤浅 | references/perspective-masaaki-yuasa.md |
 | MrBeast | MrBeast, 野兽先生 | references/perspective-mrbeast.md |
 | Nassim Taleb | 纳西姆·塔勒布, Nassim Taleb, 塔勒布, Taleb | references/perspective-nassim-taleb.md |
@@ -50,6 +52,7 @@ description: 思维视角路由器。当用户要求以特定人物的思维视�
 | Paul Graham | 保罗·格雷厄姆, Paul Graham, 格雷厄姆, Graham, PG | references/perspective-paul-graham.md |
 | Rem Koolhaas | 雷姆·库哈斯, Rem Koolhaas, 库哈斯 | references/perspective-rem-koolhaas.md |
 | Richard Feynman | 理查德·费曼, Richard Feynman, 费曼, Feynman | references/perspective-richard-feynman.md |
+| 米歇尔·福柯 | 米歇尔·福柯, Michel Foucault, 福柯, Foucault, 权力分析, 谱系学, 规训 | references/perspective-foucault.md |
 | Rory Sutherland | 罗里·萨瑟兰, Rory Sutherland, 萨瑟兰 | references/perspective-rory-sutherland.md |
 | Santiago Calatrava | 圣地亚哥·卡拉特拉瓦, Santiago Calatrava, 卡拉特拉瓦 | references/perspective-santiago-calatrava.md |
 | 沈奕斐 | 沈奕斐, Shen Yifei | references/perspective-shen-yifei.md |
@@ -57,6 +60,7 @@ description: 思维视角路由器。当用户要求以特定人物的思维视�
 | 孙宇晨 | 孙宇晨, Justin Sun | references/perspective-sun-yuchen.md |
 | Tim Pan (潘天鸿) | 潘天鸿, Tim Pan, Tim | references/perspective-tim-pan.md |
 | Denis Villeneuve | 丹尼斯·维伦纽瓦, Denis Villeneuve, 维伦纽瓦, Villeneuve | references/perspective-villeneuve.md |
+| 维特根斯坦 | 维特根斯坦, Ludwig Wittgenstein, Wittgenstein, 语言游戏, 家族相似 | references/perspective-wittgenstein.md |
 | 万维钢 | 万维钢, Wan Weigang, 同人于野 | references/perspective-wan-weigang.md |
 | X运营导师 | X运营导师, Twitter运营导师 | references/perspective-x-mentor.md |
 | 有余 | 有余, Youyu | references/perspective-youyu-designer.md |
@@ -65,6 +69,12 @@ description: 思维视角路由器。当用户要求以特定人物的思维视�
 | 张小龙 | 张小龙, Allen Zhang, 微信之父 | references/perspective-zhang-xiaolong.md |
 | 张雪峰 | 张雪峰, Zhang Xuefeng, 雪峰老师 | references/perspective-zhang-xuefeng.md |
 | 张一鸣 | 张一鸣, Zhang Yiming, 一鸣 | references/perspective-zhang-yiming.md |
+| 德内拉·梅多斯 | 德内拉·梅多斯, Donella Meadows, 梅多斯, Meadows, 杠杆点, 系统思考, 系统动力学, 增长极限, 与系统共舞, 系统陷阱, 存量流量, 反馈回路 | references/perspective-donella-meadows.md |
+| 凯文·凯利 | 凯文·凯利, Kevin Kelly, KK, 科技趋势, 技术哲学, Technium, 技术界, protopia, 进托邦, 1000 True Fans, 一千铁粉, 失控, The Inevitable, 蜂群思维, 涌现, 量化自我 | references/perspective-kevin-kelly.md |
+| 诺伯特·维纳 | 诺伯特·维纳, Norbert Wiener, 维纳, Wiener, 控制论, cybernetics, 反馈回路, 信息论, 负熵, 人机关系, 赛博 | references/perspective-norbert-wiener.md |
+| 克里斯托弗·亚历山大 | 克里斯托弗·亚历山大, Christopher Alexander, 亚历山大, Alexander, 模式语言, Pattern Language, 建筑模式, 半格结构, QWAN, 无名特质, 活结构, The Nature of Order | references/perspective-christopher-alexander.md |
+| 汉斯·罗斯林 | 汉斯·罗斯林, Hans Rosling, 罗斯林, Rosling, Factfulness, 事实真相, Gapminder, 盖普曼德, 收入阶梯, 全球健康, 数据可视化, 戏剧化本能 | references/perspective-hans-rosling.md |
+| 约瑟夫·坎贝尔 | 约瑟夫·坎贝尔, Joseph Campbell, 坎贝尔, Campbell, 英雄之旅, 千面英雄, monomyth, 单一神话, 追随你的极乐, Follow Your Bliss, 神话学 | references/perspective-joseph-campbell.md |
 
 ## 注意事项
 
