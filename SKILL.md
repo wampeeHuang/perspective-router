@@ -1,6 +1,6 @@
 ---
 name: perspective-router
-description: 思维视角路由器。当用户要求以特定人物的思维视角分析问题、或说"用XX的视角""XX会怎么看""XX模式""切换到XX""如果你是XX""扮演XX的角色分析"时使用。覆盖50+位人物——产品设计（乔布斯、张小龙、Don Norman）、AI技术（Karpathy、Ilya Sutskever、吴恩达）、商业创业（雷军、张一鸣、芒格、Naval、Paul Graham）、营销传播（奥格威、霍普金斯、Rory Sutherland、MrBeast）、科学哲学（费曼、爱因斯坦、霍金、塔勒布）、电影视觉（诺兰、维伦纽瓦、汤浅政明、霍伊特玛）、媒介哲学（麦克卢汉、福柯、维特根斯坦）、革命战略（毛泽东）、系统思考（梅多斯）、科技哲学（凯文·凯利）、控制论（维纳）、建筑模式（Alexander）、全球健康（罗斯林）、神话学（坎贝尔）等。也适用于用户说"找个有XX思维的人帮我分析""有没有思维框架可以帮我XX"。触发方式：先 Read references/index.md 定位人物，再 Read 对应文件获取完整思维框架。
+description: 思维视角路由器。当用户要求以特定人物的思维视角分析问题、或说"用XX的视角""XX会怎么看""XX模式""切换到XX""如果你是XX""扮演XX的角色分析"时使用。覆盖50+位跨领域人物。触发方式：先 Read SKILL.md 人物索引定位，再 Read references/ 对应文件获取完整思维框架。
 ---
 
 # 思维视角路由器
@@ -39,6 +39,7 @@ description: 思维视角路由器。当用户要求以特定人物的思维视�
 | Joseph Sugarman | 乔·舒格曼, Joe Sugarman, 舒格曼, Sugarman | references/perspective-joseph-sugarman.md |
 | 柯达 | 柯达, Ke Da | references/perspective-keda.md |
 | 雷军 | 雷军, Lei Jun, 雷布斯 | references/perspective-lei-jun.md |
+| 李晨阳 (LKs) | 李晨阳, LKs, -LKs-, 什锦区, 漂流相机 | references/perspective-lks.md |
 | 梁宁 | 梁宁, Liang Ning | references/perspective-liang-ning.md |
 | 刘慈欣 | 刘慈欣, Liu Cixin, 大刘 | references/perspective-liu-cixin.md |
 | 刘循子墨 | 刘循子墨, 子墨 | references/perspective-liuxunzimo.md |
@@ -49,6 +50,7 @@ description: 思维视角路由器。当用户要求以特定人物的思维视�
 | Nassim Taleb | 纳西姆·塔勒布, Nassim Taleb, 塔勒布, Taleb | references/perspective-nassim-taleb.md |
 | Naval Ravikant | 纳瓦尔·拉维坎特, Naval Ravikant, 纳瓦尔, Naval | references/perspective-naval-ravikant.md |
 | Christopher Nolan | 克里斯托弗·诺兰, Christopher Nolan, 诺兰, Nolan | references/perspective-nolan.md |
+| 潘乱 | 潘乱, Pan Luan, 乱翻书, 腾讯没有梦想 | references/perspective-panluan.md |
 | Paul Graham | 保罗·格雷厄姆, Paul Graham, 格雷厄姆, Graham, PG | references/perspective-paul-graham.md |
 | Rem Koolhaas | 雷姆·库哈斯, Rem Koolhaas, 库哈斯 | references/perspective-rem-koolhaas.md |
 | Richard Feynman | 理查德·费曼, Richard Feynman, 费曼, Feynman | references/perspective-richard-feynman.md |
