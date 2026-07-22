@@ -21,6 +21,7 @@ description: 思维视角路由器。当用户要求以特定人物的思维视�
 | Andrej Karpathy | 安德烈·卡帕西, Andrej Karpathy, 卡帕西, Karpathy | references/perspective-andrej-karpathy.md |
 | Andrew Ng (吴恩达) | 吴恩达, Andrew Ng | references/perspective-andrew-ng.md |
 | Ben Smith | 本·史密斯, Ben Smith | references/perspective-ben-smith.md |
+| BJ Fogg | BJ Fogg, B.J. Fogg, 福格, BJ·福格, B=MAT, B=MAP, Fogg Behavior Model, 福格行为模型, 说服性科技, Persuasive Technology, Tiny Habits, Captology | references/perspective-bj-fogg.md |
 | Bret Victor | 布雷特·维克托, Bret Victor, 维克托 | references/perspective-bret-victor.md |
 | Cat Wu | Cat Wu, Catherine Wu | references/perspective-cat-wu.md |
 | 查理·芒格 | 查理·芒格, Charlie Munger, 芒格, Munger | references/perspective-charlie-munger.md |
