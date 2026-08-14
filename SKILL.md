@@ -1,6 +1,6 @@
 ---
 name: perspective-router
-description: 思维视角路由器。当用户要求以特定人物的思维视角分析问题、或说"用XX的视角""XX会怎么看""XX模式""切换到XX""如果你是XX""扮演XX的角色分析"时使用。覆盖50+位跨领域人物。触发方式：先 Read SKILL.md 人物索引定位，再 Read references/ 对应文件获取完整思维框架。
+description: 思维视角路由器。当用户要求以特定人物的思维视角分析问题、或说"用XX的视角""XX会怎么看""XX模式""切换到XX""如果你是XX""扮演XX的角色分析""XX 出来"时使用。覆盖50+位跨领域人物。触发方式：先 Read SKILL.md 人物索引定位，再 Read references/ 对应文件获取完整思维框架。
 ---
 
 # 思维视角路由器
